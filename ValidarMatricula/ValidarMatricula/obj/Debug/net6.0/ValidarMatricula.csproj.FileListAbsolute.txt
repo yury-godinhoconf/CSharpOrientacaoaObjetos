@@ -1,0 +1,15 @@
+C:\Projetos\TreinamentoAluraCSharp - OPP\DesafiosCSharp - OPP\ValidarMatricula\ValidarMatricula\bin\Debug\net6.0\ValidarMatricula.exe
+C:\Projetos\TreinamentoAluraCSharp - OPP\DesafiosCSharp - OPP\ValidarMatricula\ValidarMatricula\bin\Debug\net6.0\ValidarMatricula.deps.json
+C:\Projetos\TreinamentoAluraCSharp - OPP\DesafiosCSharp - OPP\ValidarMatricula\ValidarMatricula\bin\Debug\net6.0\ValidarMatricula.runtimeconfig.json
+C:\Projetos\TreinamentoAluraCSharp - OPP\DesafiosCSharp - OPP\ValidarMatricula\ValidarMatricula\bin\Debug\net6.0\ValidarMatricula.dll
+C:\Projetos\TreinamentoAluraCSharp - OPP\DesafiosCSharp - OPP\ValidarMatricula\ValidarMatricula\bin\Debug\net6.0\ValidarMatricula.pdb
+C:\Projetos\TreinamentoAluraCSharp - OPP\DesafiosCSharp - OPP\ValidarMatricula\ValidarMatricula\obj\Debug\net6.0\ValidarMatricula.csproj.AssemblyReference.cache
+C:\Projetos\TreinamentoAluraCSharp - OPP\DesafiosCSharp - OPP\ValidarMatricula\ValidarMatricula\obj\Debug\net6.0\ValidarMatricula.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\TreinamentoAluraCSharp - OPP\DesafiosCSharp - OPP\ValidarMatricula\ValidarMatricula\obj\Debug\net6.0\ValidarMatricula.AssemblyInfoInputs.cache
+C:\Projetos\TreinamentoAluraCSharp - OPP\DesafiosCSharp - OPP\ValidarMatricula\ValidarMatricula\obj\Debug\net6.0\ValidarMatricula.AssemblyInfo.cs
+C:\Projetos\TreinamentoAluraCSharp - OPP\DesafiosCSharp - OPP\ValidarMatricula\ValidarMatricula\obj\Debug\net6.0\ValidarMatricula.csproj.CoreCompileInputs.cache
+C:\Projetos\TreinamentoAluraCSharp - OPP\DesafiosCSharp - OPP\ValidarMatricula\ValidarMatricula\obj\Debug\net6.0\ValidarMatricula.dll
+C:\Projetos\TreinamentoAluraCSharp - OPP\DesafiosCSharp - OPP\ValidarMatricula\ValidarMatricula\obj\Debug\net6.0\refint\ValidarMatricula.dll
+C:\Projetos\TreinamentoAluraCSharp - OPP\DesafiosCSharp - OPP\ValidarMatricula\ValidarMatricula\obj\Debug\net6.0\ValidarMatricula.pdb
+C:\Projetos\TreinamentoAluraCSharp - OPP\DesafiosCSharp - OPP\ValidarMatricula\ValidarMatricula\obj\Debug\net6.0\ValidarMatricula.genruntimeconfig.cache
+C:\Projetos\TreinamentoAluraCSharp - OPP\DesafiosCSharp - OPP\ValidarMatricula\ValidarMatricula\obj\Debug\net6.0\ref\ValidarMatricula.dll

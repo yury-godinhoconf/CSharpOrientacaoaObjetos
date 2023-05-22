@@ -1,0 +1,15 @@
+C:\Projetos\TreinamentoAluraCSharp - OPP\DesafiosCSharp - OPP\SistemaMedico\SistemaMedico\bin\Debug\net6.0\SistemaMedico.exe
+C:\Projetos\TreinamentoAluraCSharp - OPP\DesafiosCSharp - OPP\SistemaMedico\SistemaMedico\bin\Debug\net6.0\SistemaMedico.deps.json
+C:\Projetos\TreinamentoAluraCSharp - OPP\DesafiosCSharp - OPP\SistemaMedico\SistemaMedico\bin\Debug\net6.0\SistemaMedico.runtimeconfig.json
+C:\Projetos\TreinamentoAluraCSharp - OPP\DesafiosCSharp - OPP\SistemaMedico\SistemaMedico\bin\Debug\net6.0\SistemaMedico.dll
+C:\Projetos\TreinamentoAluraCSharp - OPP\DesafiosCSharp - OPP\SistemaMedico\SistemaMedico\bin\Debug\net6.0\SistemaMedico.pdb
+C:\Projetos\TreinamentoAluraCSharp - OPP\DesafiosCSharp - OPP\SistemaMedico\SistemaMedico\obj\Debug\net6.0\SistemaMedico.csproj.AssemblyReference.cache
+C:\Projetos\TreinamentoAluraCSharp - OPP\DesafiosCSharp - OPP\SistemaMedico\SistemaMedico\obj\Debug\net6.0\SistemaMedico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\TreinamentoAluraCSharp - OPP\DesafiosCSharp - OPP\SistemaMedico\SistemaMedico\obj\Debug\net6.0\SistemaMedico.AssemblyInfoInputs.cache
+C:\Projetos\TreinamentoAluraCSharp - OPP\DesafiosCSharp - OPP\SistemaMedico\SistemaMedico\obj\Debug\net6.0\SistemaMedico.AssemblyInfo.cs
+C:\Projetos\TreinamentoAluraCSharp - OPP\DesafiosCSharp - OPP\SistemaMedico\SistemaMedico\obj\Debug\net6.0\SistemaMedico.csproj.CoreCompileInputs.cache
+C:\Projetos\TreinamentoAluraCSharp - OPP\DesafiosCSharp - OPP\SistemaMedico\SistemaMedico\obj\Debug\net6.0\SistemaMedico.dll
+C:\Projetos\TreinamentoAluraCSharp - OPP\DesafiosCSharp - OPP\SistemaMedico\SistemaMedico\obj\Debug\net6.0\refint\SistemaMedico.dll
+C:\Projetos\TreinamentoAluraCSharp - OPP\DesafiosCSharp - OPP\SistemaMedico\SistemaMedico\obj\Debug\net6.0\SistemaMedico.pdb
+C:\Projetos\TreinamentoAluraCSharp - OPP\DesafiosCSharp - OPP\SistemaMedico\SistemaMedico\obj\Debug\net6.0\SistemaMedico.genruntimeconfig.cache
+C:\Projetos\TreinamentoAluraCSharp - OPP\DesafiosCSharp - OPP\SistemaMedico\SistemaMedico\obj\Debug\net6.0\ref\SistemaMedico.dll

@@ -1,0 +1,15 @@
+C:\Projetos\TreinamentoAluraCSharp - OPP\DesafiosCSharp - OPP\ContaCorrenteConstrutor\ContaCorrenteConstrutor\bin\Debug\net6.0\ContaCorrenteConstrutor.exe
+C:\Projetos\TreinamentoAluraCSharp - OPP\DesafiosCSharp - OPP\ContaCorrenteConstrutor\ContaCorrenteConstrutor\bin\Debug\net6.0\ContaCorrenteConstrutor.deps.json
+C:\Projetos\TreinamentoAluraCSharp - OPP\DesafiosCSharp - OPP\ContaCorrenteConstrutor\ContaCorrenteConstrutor\bin\Debug\net6.0\ContaCorrenteConstrutor.runtimeconfig.json
+C:\Projetos\TreinamentoAluraCSharp - OPP\DesafiosCSharp - OPP\ContaCorrenteConstrutor\ContaCorrenteConstrutor\bin\Debug\net6.0\ContaCorrenteConstrutor.dll
+C:\Projetos\TreinamentoAluraCSharp - OPP\DesafiosCSharp - OPP\ContaCorrenteConstrutor\ContaCorrenteConstrutor\bin\Debug\net6.0\ContaCorrenteConstrutor.pdb
+C:\Projetos\TreinamentoAluraCSharp - OPP\DesafiosCSharp - OPP\ContaCorrenteConstrutor\ContaCorrenteConstrutor\obj\Debug\net6.0\ContaCorrenteConstrutor.csproj.AssemblyReference.cache
+C:\Projetos\TreinamentoAluraCSharp - OPP\DesafiosCSharp - OPP\ContaCorrenteConstrutor\ContaCorrenteConstrutor\obj\Debug\net6.0\ContaCorrenteConstrutor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\TreinamentoAluraCSharp - OPP\DesafiosCSharp - OPP\ContaCorrenteConstrutor\ContaCorrenteConstrutor\obj\Debug\net6.0\ContaCorrenteConstrutor.AssemblyInfoInputs.cache
+C:\Projetos\TreinamentoAluraCSharp - OPP\DesafiosCSharp - OPP\ContaCorrenteConstrutor\ContaCorrenteConstrutor\obj\Debug\net6.0\ContaCorrenteConstrutor.AssemblyInfo.cs
+C:\Projetos\TreinamentoAluraCSharp - OPP\DesafiosCSharp - OPP\ContaCorrenteConstrutor\ContaCorrenteConstrutor\obj\Debug\net6.0\ContaCorrenteConstrutor.csproj.CoreCompileInputs.cache
+C:\Projetos\TreinamentoAluraCSharp - OPP\DesafiosCSharp - OPP\ContaCorrenteConstrutor\ContaCorrenteConstrutor\obj\Debug\net6.0\ContaCorrenteConstrutor.dll
+C:\Projetos\TreinamentoAluraCSharp - OPP\DesafiosCSharp - OPP\ContaCorrenteConstrutor\ContaCorrenteConstrutor\obj\Debug\net6.0\refint\ContaCorrenteConstrutor.dll
+C:\Projetos\TreinamentoAluraCSharp - OPP\DesafiosCSharp - OPP\ContaCorrenteConstrutor\ContaCorrenteConstrutor\obj\Debug\net6.0\ContaCorrenteConstrutor.pdb
+C:\Projetos\TreinamentoAluraCSharp - OPP\DesafiosCSharp - OPP\ContaCorrenteConstrutor\ContaCorrenteConstrutor\obj\Debug\net6.0\ContaCorrenteConstrutor.genruntimeconfig.cache
+C:\Projetos\TreinamentoAluraCSharp - OPP\DesafiosCSharp - OPP\ContaCorrenteConstrutor\ContaCorrenteConstrutor\obj\Debug\net6.0\ref\ContaCorrenteConstrutor.dll

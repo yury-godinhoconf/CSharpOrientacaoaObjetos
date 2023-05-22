@@ -1,0 +1,30 @@
+C:\Projetos\TreinamentoAluraCSharp - OPP\EstoqueSupermercado\EstoqueSupermercado\bin\Debug\net6.0\EstoqueSupermercado.exe
+C:\Projetos\TreinamentoAluraCSharp - OPP\EstoqueSupermercado\EstoqueSupermercado\bin\Debug\net6.0\EstoqueSupermercado.deps.json
+C:\Projetos\TreinamentoAluraCSharp - OPP\EstoqueSupermercado\EstoqueSupermercado\bin\Debug\net6.0\EstoqueSupermercado.runtimeconfig.json
+C:\Projetos\TreinamentoAluraCSharp - OPP\EstoqueSupermercado\EstoqueSupermercado\bin\Debug\net6.0\EstoqueSupermercado.dll
+C:\Projetos\TreinamentoAluraCSharp - OPP\EstoqueSupermercado\EstoqueSupermercado\bin\Debug\net6.0\EstoqueSupermercado.pdb
+C:\Projetos\TreinamentoAluraCSharp - OPP\EstoqueSupermercado\EstoqueSupermercado\obj\Debug\net6.0\EstoqueSupermercado.csproj.AssemblyReference.cache
+C:\Projetos\TreinamentoAluraCSharp - OPP\EstoqueSupermercado\EstoqueSupermercado\obj\Debug\net6.0\EstoqueSupermercado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\TreinamentoAluraCSharp - OPP\EstoqueSupermercado\EstoqueSupermercado\obj\Debug\net6.0\EstoqueSupermercado.AssemblyInfoInputs.cache
+C:\Projetos\TreinamentoAluraCSharp - OPP\EstoqueSupermercado\EstoqueSupermercado\obj\Debug\net6.0\EstoqueSupermercado.AssemblyInfo.cs
+C:\Projetos\TreinamentoAluraCSharp - OPP\EstoqueSupermercado\EstoqueSupermercado\obj\Debug\net6.0\EstoqueSupermercado.csproj.CoreCompileInputs.cache
+C:\Projetos\TreinamentoAluraCSharp - OPP\EstoqueSupermercado\EstoqueSupermercado\obj\Debug\net6.0\EstoqueSupermercado.dll
+C:\Projetos\TreinamentoAluraCSharp - OPP\EstoqueSupermercado\EstoqueSupermercado\obj\Debug\net6.0\refint\EstoqueSupermercado.dll
+C:\Projetos\TreinamentoAluraCSharp - OPP\EstoqueSupermercado\EstoqueSupermercado\obj\Debug\net6.0\EstoqueSupermercado.pdb
+C:\Projetos\TreinamentoAluraCSharp - OPP\EstoqueSupermercado\EstoqueSupermercado\obj\Debug\net6.0\EstoqueSupermercado.genruntimeconfig.cache
+C:\Projetos\TreinamentoAluraCSharp - OPP\EstoqueSupermercado\EstoqueSupermercado\obj\Debug\net6.0\ref\EstoqueSupermercado.dll
+C:\Projetos\TreinamentoAluraCSharp - OPP\DesafiosCSharp - OPP\EstoqueSupermercado\EstoqueSupermercado\bin\Debug\net6.0\EstoqueSupermercado.exe
+C:\Projetos\TreinamentoAluraCSharp - OPP\DesafiosCSharp - OPP\EstoqueSupermercado\EstoqueSupermercado\bin\Debug\net6.0\EstoqueSupermercado.deps.json
+C:\Projetos\TreinamentoAluraCSharp - OPP\DesafiosCSharp - OPP\EstoqueSupermercado\EstoqueSupermercado\bin\Debug\net6.0\EstoqueSupermercado.runtimeconfig.json
+C:\Projetos\TreinamentoAluraCSharp - OPP\DesafiosCSharp - OPP\EstoqueSupermercado\EstoqueSupermercado\bin\Debug\net6.0\EstoqueSupermercado.dll
+C:\Projetos\TreinamentoAluraCSharp - OPP\DesafiosCSharp - OPP\EstoqueSupermercado\EstoqueSupermercado\bin\Debug\net6.0\EstoqueSupermercado.pdb
+C:\Projetos\TreinamentoAluraCSharp - OPP\DesafiosCSharp - OPP\EstoqueSupermercado\EstoqueSupermercado\obj\Debug\net6.0\EstoqueSupermercado.csproj.AssemblyReference.cache
+C:\Projetos\TreinamentoAluraCSharp - OPP\DesafiosCSharp - OPP\EstoqueSupermercado\EstoqueSupermercado\obj\Debug\net6.0\EstoqueSupermercado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\TreinamentoAluraCSharp - OPP\DesafiosCSharp - OPP\EstoqueSupermercado\EstoqueSupermercado\obj\Debug\net6.0\EstoqueSupermercado.AssemblyInfoInputs.cache
+C:\Projetos\TreinamentoAluraCSharp - OPP\DesafiosCSharp - OPP\EstoqueSupermercado\EstoqueSupermercado\obj\Debug\net6.0\EstoqueSupermercado.AssemblyInfo.cs
+C:\Projetos\TreinamentoAluraCSharp - OPP\DesafiosCSharp - OPP\EstoqueSupermercado\EstoqueSupermercado\obj\Debug\net6.0\EstoqueSupermercado.csproj.CoreCompileInputs.cache
+C:\Projetos\TreinamentoAluraCSharp - OPP\DesafiosCSharp - OPP\EstoqueSupermercado\EstoqueSupermercado\obj\Debug\net6.0\EstoqueSupermercado.dll
+C:\Projetos\TreinamentoAluraCSharp - OPP\DesafiosCSharp - OPP\EstoqueSupermercado\EstoqueSupermercado\obj\Debug\net6.0\refint\EstoqueSupermercado.dll
+C:\Projetos\TreinamentoAluraCSharp - OPP\DesafiosCSharp - OPP\EstoqueSupermercado\EstoqueSupermercado\obj\Debug\net6.0\EstoqueSupermercado.pdb
+C:\Projetos\TreinamentoAluraCSharp - OPP\DesafiosCSharp - OPP\EstoqueSupermercado\EstoqueSupermercado\obj\Debug\net6.0\EstoqueSupermercado.genruntimeconfig.cache
+C:\Projetos\TreinamentoAluraCSharp - OPP\DesafiosCSharp - OPP\EstoqueSupermercado\EstoqueSupermercado\obj\Debug\net6.0\ref\EstoqueSupermercado.dll

@@ -1,0 +1,15 @@
+C:\Projetos\TreinamentoAluraCSharp - OPP\DesafiosCSharp - OPP\TotalClientes\TotalClientes\obj\Debug\net6.0\TotalClientes.csproj.AssemblyReference.cache
+C:\Projetos\TreinamentoAluraCSharp - OPP\DesafiosCSharp - OPP\TotalClientes\TotalClientes\obj\Debug\net6.0\TotalClientes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\TreinamentoAluraCSharp - OPP\DesafiosCSharp - OPP\TotalClientes\TotalClientes\obj\Debug\net6.0\TotalClientes.AssemblyInfoInputs.cache
+C:\Projetos\TreinamentoAluraCSharp - OPP\DesafiosCSharp - OPP\TotalClientes\TotalClientes\obj\Debug\net6.0\TotalClientes.AssemblyInfo.cs
+C:\Projetos\TreinamentoAluraCSharp - OPP\DesafiosCSharp - OPP\TotalClientes\TotalClientes\obj\Debug\net6.0\TotalClientes.csproj.CoreCompileInputs.cache
+C:\Projetos\TreinamentoAluraCSharp - OPP\DesafiosCSharp - OPP\TotalClientes\TotalClientes\bin\Debug\net6.0\TotalClientes.exe
+C:\Projetos\TreinamentoAluraCSharp - OPP\DesafiosCSharp - OPP\TotalClientes\TotalClientes\bin\Debug\net6.0\TotalClientes.deps.json
+C:\Projetos\TreinamentoAluraCSharp - OPP\DesafiosCSharp - OPP\TotalClientes\TotalClientes\bin\Debug\net6.0\TotalClientes.runtimeconfig.json
+C:\Projetos\TreinamentoAluraCSharp - OPP\DesafiosCSharp - OPP\TotalClientes\TotalClientes\bin\Debug\net6.0\TotalClientes.dll
+C:\Projetos\TreinamentoAluraCSharp - OPP\DesafiosCSharp - OPP\TotalClientes\TotalClientes\bin\Debug\net6.0\TotalClientes.pdb
+C:\Projetos\TreinamentoAluraCSharp - OPP\DesafiosCSharp - OPP\TotalClientes\TotalClientes\obj\Debug\net6.0\TotalClientes.dll
+C:\Projetos\TreinamentoAluraCSharp - OPP\DesafiosCSharp - OPP\TotalClientes\TotalClientes\obj\Debug\net6.0\refint\TotalClientes.dll
+C:\Projetos\TreinamentoAluraCSharp - OPP\DesafiosCSharp - OPP\TotalClientes\TotalClientes\obj\Debug\net6.0\TotalClientes.pdb
+C:\Projetos\TreinamentoAluraCSharp - OPP\DesafiosCSharp - OPP\TotalClientes\TotalClientes\obj\Debug\net6.0\TotalClientes.genruntimeconfig.cache
+C:\Projetos\TreinamentoAluraCSharp - OPP\DesafiosCSharp - OPP\TotalClientes\TotalClientes\obj\Debug\net6.0\ref\TotalClientes.dll
